@@ -3,7 +3,7 @@
 A modern, high-performance, and fully responsive e-commerce web application built from scratch. Designed with a premium dark aesthetic focused on urban fashion and seamless user experience.
 
 ## 🚀 Live Demo
-👉 **[Haz clic aquí para ver el proyecto en vivo]https://fabiancho-cyber.github.io/FABISHOP/
+👉 **[Haz clic aquí para ver FabiTech en vivo](https://fabiancho-cyber.github.io/FABISHOP/)**
 
 ---
 
